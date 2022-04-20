@@ -1,0 +1,22 @@
+.textarea {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  resize: none;
+
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  font-size: 64px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.textarea::placeholder {
+  color: #6B705C;
+}
+
+@media (max-width: 800px) {
+  .textarea {
+    font-size: 32px;
+  }
+}
