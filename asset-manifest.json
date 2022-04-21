@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/front_end_lab3/static/css/main.7974615e.css",
+    "main.js": "/front_end_lab3/static/js/main.d264ace2.js",
+    "index.html": "/front_end_lab3/index.html",
+    "main.7974615e.css.map": "/front_end_lab3/static/css/main.7974615e.css.map",
+    "main.d264ace2.js.map": "/front_end_lab3/static/js/main.d264ace2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7974615e.css",
+    "static/js/main.d264ace2.js"
+  ]
+}
